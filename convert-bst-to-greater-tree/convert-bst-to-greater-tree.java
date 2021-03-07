@@ -36,11 +36,11 @@ class Solution {
                 q.offer(node.right);
         }
         
-        System.out.println(qu);
+        // System.out.println(qu);
         
         Collections.sort(qu, Collections.reverseOrder());
         
-        System.out.println(qu);
+        // System.out.println(qu);
         
         int sum = 0;
         for(int i: qu){
@@ -48,7 +48,7 @@ class Solution {
             map.put(i, sum);
         }
         
-        System.out.println(map);
+        // System.out.println(map);
         
         q.offer(root);
         
