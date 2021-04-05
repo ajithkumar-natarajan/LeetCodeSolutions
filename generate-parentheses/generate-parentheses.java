@@ -13,11 +13,11 @@ class Solution {
         if(n == 1)
             return set;
         
-        // StringBuilder sb = new StringBuilder();
         Set<String> set2 = new HashSet<>();
         for(String s: set){
+            StringBuilder sb = new StringBuilder(s);
             for(int i=1; i<=s.length(); ++i){
-                String str = s.substring(0, i)+"()"+s.substring(i);
+                String str = sb.substring(0, i)+"()"+sb.substring(i);
                 set2.add(str);
             }
         }
