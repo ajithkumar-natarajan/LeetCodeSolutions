@@ -18,6 +18,37 @@ class Solution {
         if(root == null ||(root.left == null && root.right == null))
             return true;
         
+        Queue<TreeNode> q = new LinkedList<>();
+        
+        q.offer(root);
+        q.offer(root);
+        
+        while(!q.isEmpty()){
+            TreeNode n1 = q.poll();
+            TreeNode n2 = q.poll();
+            
+            if(n1 == null && n2 == null)
+                continue;
+            if(n1 == null || n2 == null)
+                return false;
+            if(n1.val != n2.val)
+                return false;
+            
+            // if(n2 == null)
+            //     return false;
+            
+            // if(n1 != null && n2 != null)
+            //     if(n1.val != n2.val)
+            //         return false;
+            
+            q.offer(n1.left);
+            q.offer(n2.right);
+            q.offer(n1.right);
+            q.offer(n2.left);
+        }
+        
+        return true;
+        
 //         Deque<TreeNode> q = new ArrayDeque<>();
 //         // q.offer(root);
         
@@ -72,44 +103,44 @@ class Solution {
 //             }
 //         }
         
-        Queue<TreeNode> q = new LinkedList<>();
+//         Queue<TreeNode> q = new LinkedList<>();
         
-        if(root.left != null){
-            if(root.right == null)
-                return false;
-            q.offer(root.left);
-            q.offer(root.right);
-        }
-        else if(root.right != null)
-            return false;
+//         if(root.left != null){
+//             if(root.right == null)
+//                 return false;
+//             q.offer(root.left);
+//             q.offer(root.right);
+//         }
+//         else if(root.right != null)
+//             return false;
         
-        while(q.size() > 0){
-            TreeNode left = q.poll();
-            TreeNode right = q.poll();
+//         while(q.size() > 0){
+//             TreeNode left = q.poll();
+//             TreeNode right = q.poll();
             
-            if(left.val != right.val)
-                return false;
+//             if(left.val != right.val)
+//                 return false;
             
-            if(left.left != null){
-                if(right.right == null)
-                    return false;
-                q.offer(left.left);
-                q.offer(right.right);
-            }
-            else if(right.right != null)
-                return false;
+//             if(left.left != null){
+//                 if(right.right == null)
+//                     return false;
+//                 q.offer(left.left);
+//                 q.offer(right.right);
+//             }
+//             else if(right.right != null)
+//                 return false;
             
-            if(left.right != null){
-                if(right.left == null)
-                    return false;
-                q.offer(left.right);
-                q.offer(right.left);
-            }
-            else if(right.left != null)
-                return false;
-        }
+//             if(left.right != null){
+//                 if(right.left == null)
+//                     return false;
+//                 q.offer(left.right);
+//                 q.offer(right.left);
+//             }
+//             else if(right.left != null)
+//                 return false;
+//         }
         
-        return true;
+//         return true;
         
     }
 }
