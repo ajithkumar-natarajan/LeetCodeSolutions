@@ -11,6 +11,7 @@ Contains my solutions to LeetCode problems. Link to my LeetCode profile: https:/
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0002-add-two-numbers) |
+| [0067-add-binary](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0067-add-binary) |
 ## Recursion
 |  |
 | ------- |
@@ -45,9 +46,18 @@ Contains my solutions to LeetCode problems. Link to my LeetCode profile: https:/
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0242-valid-anagram) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
