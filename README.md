@@ -22,12 +22,14 @@ Contains my solutions to LeetCode problems. Link to my LeetCode profile: https:/
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0169-majority-element) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Hash Table
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0242-valid-anagram) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -39,6 +41,7 @@ Contains my solutions to LeetCode problems. Link to my LeetCode profile: https:/
 | [0049-group-anagrams](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0242-valid-anagram) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Counting
 |  |
 | ------- |
@@ -67,4 +70,8 @@ Contains my solutions to LeetCode problems. Link to my LeetCode profile: https:/
 |  |
 | ------- |
 | [0401-binary-watch](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0401-binary-watch) |
+## Greedy
+|  |
+| ------- |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 <!---LeetCode Topics End-->
