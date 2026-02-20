@@ -21,18 +21,21 @@ Contains my solutions to LeetCode problems. Link to my LeetCode profile: https:/
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0049-group-anagrams) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0169-majority-element) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Hash Table
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0049-group-anagrams) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0242-valid-anagram) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0190-reverse-bits) |
 ## Sorting
@@ -77,4 +80,12 @@ Contains my solutions to LeetCode problems. Link to my LeetCode profile: https:/
 |  |
 | ------- |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
+## Tree
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 <!---LeetCode Topics End-->
