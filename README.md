@@ -33,6 +33,7 @@ Contains my solutions to LeetCode problems. Link to my LeetCode profile: https:/
 | [0169-majority-element](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0242-valid-anagram) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
+| [3713-longest-balanced-substring-i](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/3713-longest-balanced-substring-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -50,6 +51,7 @@ Contains my solutions to LeetCode problems. Link to my LeetCode profile: https:/
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0169-majority-element) |
+| [3713-longest-balanced-substring-i](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/3713-longest-balanced-substring-i) |
 ## String
 |  |
 | ------- |
@@ -57,6 +59,7 @@ Contains my solutions to LeetCode problems. Link to my LeetCode profile: https:/
 | [0067-add-binary](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0242-valid-anagram) |
 | [0696-count-binary-substrings](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0696-count-binary-substrings) |
+| [3713-longest-balanced-substring-i](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/3713-longest-balanced-substring-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -90,4 +93,8 @@ Contains my solutions to LeetCode problems. Link to my LeetCode profile: https:/
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+## Enumeration
+|  |
+| ------- |
+| [3713-longest-balanced-substring-i](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/3713-longest-balanced-substring-i) |
 <!---LeetCode Topics End-->
