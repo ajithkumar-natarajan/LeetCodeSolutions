@@ -12,6 +12,7 @@ Contains my solutions to LeetCode problems. Link to my LeetCode profile: https:/
 | ------- |
 | [0002-add-two-numbers](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0002-add-two-numbers) |
 | [0067-add-binary](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0067-add-binary) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Recursion
 |  |
 | ------- |
@@ -68,6 +69,7 @@ Contains my solutions to LeetCode problems. Link to my LeetCode profile: https:/
 | [0190-reverse-bits](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0190-reverse-bits) |
 | [0401-binary-watch](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0693-binary-number-with-alternating-bits) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Simulation
 |  |
 | ------- |
