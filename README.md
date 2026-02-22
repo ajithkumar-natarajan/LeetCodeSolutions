@@ -76,6 +76,7 @@ Contains my solutions to LeetCode problems. Link to my LeetCode profile: https:/
 | [0401-binary-watch](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0868-binary-gap](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0868-binary-gap) |
 ## Simulation
 |  |
 | ------- |
