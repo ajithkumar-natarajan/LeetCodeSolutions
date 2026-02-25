@@ -21,6 +21,7 @@ Contains my solutions to LeetCode problems. Link to my LeetCode profile: https:/
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0049-group-anagrams](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0169-majority-element) |
@@ -114,6 +115,7 @@ Contains my solutions to LeetCode problems. Link to my LeetCode profile: https:/
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0287-find-the-duplicate-number) |
 ## Rolling Hash
 |  |
