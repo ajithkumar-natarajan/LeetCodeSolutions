@@ -60,6 +60,7 @@ Contains my solutions to LeetCode problems. Link to my LeetCode profile: https:/
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0242-valid-anagram) |
@@ -126,4 +127,8 @@ Contains my solutions to LeetCode problems. Link to my LeetCode profile: https:/
 |  |
 | ------- |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
