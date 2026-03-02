@@ -27,6 +27,7 @@ Contains my solutions to LeetCode problems. Link to my LeetCode profile: https:/
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0169-majority-element) |
 | [0287-find-the-duplicate-number](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0287-find-the-duplicate-number) |
+| [0560-subarray-sum-equals-k](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0560-subarray-sum-equals-k) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Hash Table
@@ -36,6 +37,7 @@ Contains my solutions to LeetCode problems. Link to my LeetCode profile: https:/
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0242-valid-anagram) |
+| [0560-subarray-sum-equals-k](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0560-subarray-sum-equals-k) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3713-longest-balanced-substring-i](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/3713-longest-balanced-substring-i) |
@@ -141,4 +143,8 @@ Contains my solutions to LeetCode problems. Link to my LeetCode profile: https:/
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0020-valid-parentheses) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
