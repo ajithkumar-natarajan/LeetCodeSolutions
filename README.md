@@ -18,6 +18,7 @@ Contains my solutions to LeetCode problems. Link to my LeetCode profile: https:/
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0002-add-two-numbers) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Array
 |  |
 | ------- |
@@ -72,6 +73,7 @@ Contains my solutions to LeetCode problems. Link to my LeetCode profile: https:/
 | [0696-count-binary-substrings](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0696-count-binary-substrings) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [3713-longest-balanced-substring-i](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/3713-longest-balanced-substring-i) |
 ## Two Pointers
@@ -99,6 +101,7 @@ Contains my solutions to LeetCode problems. Link to my LeetCode profile: https:/
 | ------- |
 | [0067-add-binary](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0067-add-binary) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Backtracking
 |  |
