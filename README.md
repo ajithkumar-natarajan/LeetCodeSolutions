@@ -32,6 +32,7 @@ Contains my solutions to LeetCode problems. Link to my LeetCode profile: https:/
 | [0560-subarray-sum-equals-k](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0560-subarray-sum-equals-k) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Hash Table
 |  |
@@ -158,6 +159,7 @@ Contains my solutions to LeetCode problems. Link to my LeetCode profile: https:/
 |  |
 | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Design
 |  |
 | ------- |
