@@ -7,6 +7,7 @@ Contains my solutions to LeetCode problems. Link to my LeetCode profile: https:/
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0002-add-two-numbers) |
+| [0146-lru-cache](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0146-lru-cache) |
 ## Math
 |  |
 | ------- |
@@ -37,6 +38,7 @@ Contains my solutions to LeetCode problems. Link to my LeetCode profile: https:/
 | ------- |
 | [0049-group-anagrams](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0146-lru-cache](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0560-subarray-sum-equals-k) |
@@ -156,4 +158,12 @@ Contains my solutions to LeetCode problems. Link to my LeetCode profile: https:/
 |  |
 | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
