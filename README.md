@@ -29,6 +29,7 @@ Contains my solutions to LeetCode problems. Link to my LeetCode profile: https:/
 | [0056-merge-intervals](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0056-merge-intervals) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0287-find-the-duplicate-number](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0287-find-the-duplicate-number) |
@@ -121,6 +122,7 @@ Contains my solutions to LeetCode problems. Link to my LeetCode profile: https:/
 ## Greedy
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
@@ -180,6 +182,7 @@ Contains my solutions to LeetCode problems. Link to my LeetCode profile: https:/
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
