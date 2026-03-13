@@ -149,12 +149,14 @@ Contains my solutions to LeetCode problems. Link to my LeetCode profile: https:/
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/1325-delete-leaves-with-a-given-value) |
 ## Binary Tree
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/1325-delete-leaves-with-a-given-value) |
 ## Enumeration
@@ -177,12 +179,14 @@ Contains my solutions to LeetCode problems. Link to my LeetCode profile: https:/
 ## Depth-First Search
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/1325-delete-leaves-with-a-given-value) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0020-valid-parentheses) |
+| [0144-binary-tree-preorder-traversal](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0144-binary-tree-preorder-traversal) |
 ## Prefix Sum
 |  |
 | ------- |
