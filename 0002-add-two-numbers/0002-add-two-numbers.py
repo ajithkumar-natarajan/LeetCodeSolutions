@@ -10,33 +10,32 @@ class Solution:
         carry = 0
 
         while l1 and l2:
-            val = carry + l1.val + l2.val
-            node.next = ListNode(val%10)
-            node = node.next
+            val = l1.val + l2.val + carry
+            root.next = ListNode(val%10)
+            root = root.next
             carry = val // 10
 
             l1 = l1.next
             l2 = l2.next
 
-        if not l1:
-            while l2:
-                val = carry + l2.val
-                node.next = ListNode(val%10)
-                node = node.next
-                carry = val // 10
+        while l1:
+            val = l1.val + carry
+            root.next = ListNode(val%10)
+            root = root.next
+            carry = val // 10
 
-                l2 = l2.next
-        elif not l2:
-            while l1:
-                val = carry + l1.val
-                node.next = ListNode(val%10)
-                node = node.next
-                carry = val // 10
+            l1 = l1.next
+        
+        while l2:
+            val = l2.val + carry
+            root.next = ListNode(val%10)
+            root = root.next
+            carry = val // 10
 
-                l1 = l1.next
-        if carry != 0:
-            node.next = ListNode(carry)
-            node = node.next
-        node.next = None
+            l2 = l2.next
 
-        return root.next
+        if carry:
+            root.next = ListNode(carry)
+            root = root.next
+
+        return node.next
