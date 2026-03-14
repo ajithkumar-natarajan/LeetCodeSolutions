@@ -42,6 +42,7 @@ Contains my solutions to LeetCode problems. Link to my LeetCode profile: https:/
 | [0560-subarray-sum-equals-k](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0560-subarray-sum-equals-k) |
 | [1260-shift-2d-grid](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/1260-shift-2d-grid) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1476-subrectangle-queries](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/1476-subrectangle-queries) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1980-find-unique-binary-string](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/1980-find-unique-binary-string) |
@@ -201,12 +202,14 @@ Contains my solutions to LeetCode problems. Link to my LeetCode profile: https:/
 | ------- |
 | [0200-number-of-islands](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0200-number-of-islands) |
 | [1260-shift-2d-grid](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/1260-shift-2d-grid) |
+| [1476-subrectangle-queries](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/1476-subrectangle-queries) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Design
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0146-lru-cache) |
+| [1476-subrectangle-queries](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/1476-subrectangle-queries) |
 ## Doubly-Linked List
 |  |
 | ------- |
