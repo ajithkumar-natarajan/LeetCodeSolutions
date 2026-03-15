@@ -40,6 +40,7 @@ Contains my solutions to LeetCode problems. Link to my LeetCode profile: https:/
 | [0215-kth-largest-element-in-an-array](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0287-find-the-duplicate-number](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0560-subarray-sum-equals-k) |
+| [0986-interval-list-intersections](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0986-interval-list-intersections) |
 | [1260-shift-2d-grid](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/1260-shift-2d-grid) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1476-subrectangle-queries](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/1476-subrectangle-queries) |
@@ -113,6 +114,7 @@ Contains my solutions to LeetCode problems. Link to my LeetCode profile: https:/
 | [0141-linked-list-cycle](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0141-linked-list-cycle) |
 | [0287-find-the-duplicate-number](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0287-find-the-duplicate-number) |
 | [0696-count-binary-substrings](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0696-count-binary-substrings) |
+| [0986-interval-list-intersections](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0986-interval-list-intersections) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -240,4 +242,8 @@ Contains my solutions to LeetCode problems. Link to my LeetCode profile: https:/
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0200-number-of-islands) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
