@@ -41,6 +41,7 @@ Contains my solutions to LeetCode problems. Link to my LeetCode profile: https:/
 | [0215-kth-largest-element-in-an-array](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0287-find-the-duplicate-number](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0287-find-the-duplicate-number) |
 | [0399-evaluate-division](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0399-evaluate-division) |
+| [0529-minesweeper](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0529-minesweeper) |
 | [0560-subarray-sum-equals-k](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0560-subarray-sum-equals-k) |
 | [0986-interval-list-intersections](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0986-interval-list-intersections) |
 | [1260-shift-2d-grid](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/1260-shift-2d-grid) |
@@ -196,6 +197,7 @@ Contains my solutions to LeetCode problems. Link to my LeetCode profile: https:/
 | [0144-binary-tree-preorder-traversal](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0399-evaluate-division) |
+| [0529-minesweeper](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0529-minesweeper) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/1325-delete-leaves-with-a-given-value) |
 ## Stack
@@ -211,6 +213,7 @@ Contains my solutions to LeetCode problems. Link to my LeetCode profile: https:/
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0200-number-of-islands) |
+| [0529-minesweeper](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0529-minesweeper) |
 | [1260-shift-2d-grid](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/1260-shift-2d-grid) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1476-subrectangle-queries](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/1476-subrectangle-queries) |
@@ -248,6 +251,7 @@ Contains my solutions to LeetCode problems. Link to my LeetCode profile: https:/
 | ------- |
 | [0200-number-of-islands](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0399-evaluate-division) |
+| [0529-minesweeper](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0529-minesweeper) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Union-Find
