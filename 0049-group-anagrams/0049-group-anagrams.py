@@ -7,18 +7,9 @@ class Solution:
             word_list = list(word)
             word_list.sort()
             word_tuple = tuple(word_list)
-            # print(word_tuple)
 
             x = d.get(word_tuple, [])
-            x.append(i)
+            x.append(word)
             d[word_tuple] = x
 
-        for key in d.keys():
-            group = []
-            for i in d.get(key):
-                group.append(strs[i])
-            res.append(group)
-
-        # print(res)
-
-        return res
+        return list(d.values())
