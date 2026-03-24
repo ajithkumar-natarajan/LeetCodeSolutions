@@ -169,6 +169,7 @@ Contains my solutions to LeetCode problems. Link to my LeetCode profile: https:/
 | [0094-binary-tree-inorder-traversal](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/1325-delete-leaves-with-a-given-value) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
@@ -178,6 +179,7 @@ Contains my solutions to LeetCode problems. Link to my LeetCode profile: https:/
 | [0094-binary-tree-inorder-traversal](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/1325-delete-leaves-with-a-given-value) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
@@ -203,6 +205,7 @@ Contains my solutions to LeetCode problems. Link to my LeetCode profile: https:/
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0399-evaluate-division) |
 | [0529-minesweeper](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0529-minesweeper) |
@@ -214,6 +217,7 @@ Contains my solutions to LeetCode problems. Link to my LeetCode profile: https:/
 | [0020-valid-parentheses](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0145-binary-tree-postorder-traversal) |
 ## Prefix Sum
 |  |
 | ------- |
