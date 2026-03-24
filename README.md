@@ -169,6 +169,7 @@ Contains my solutions to LeetCode problems. Link to my LeetCode profile: https:/
 | [0094-binary-tree-inorder-traversal](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -180,6 +181,7 @@ Contains my solutions to LeetCode problems. Link to my LeetCode profile: https:/
 | [0094-binary-tree-inorder-traversal](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -206,6 +208,7 @@ Contains my solutions to LeetCode problems. Link to my LeetCode profile: https:/
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0200-number-of-islands) |
