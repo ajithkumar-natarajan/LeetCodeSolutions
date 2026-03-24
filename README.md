@@ -172,6 +172,7 @@ Contains my solutions to LeetCode problems. Link to my LeetCode profile: https:/
 | [0129-sum-root-to-leaf-numbers](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0543-diameter-of-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/1325-delete-leaves-with-a-given-value) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
@@ -184,6 +185,7 @@ Contains my solutions to LeetCode problems. Link to my LeetCode profile: https:/
 | [0129-sum-root-to-leaf-numbers](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0543-diameter-of-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/1325-delete-leaves-with-a-given-value) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
@@ -214,6 +216,7 @@ Contains my solutions to LeetCode problems. Link to my LeetCode profile: https:/
 | [0200-number-of-islands](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0399-evaluate-division) |
 | [0529-minesweeper](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0529-minesweeper) |
+| [0543-diameter-of-binary-tree](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0543-diameter-of-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/1325-delete-leaves-with-a-given-value) |
 ## Stack
