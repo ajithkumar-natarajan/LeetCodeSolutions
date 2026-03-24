@@ -32,6 +32,7 @@ Contains my solutions to LeetCode problems. Link to my LeetCode profile: https:/
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0049-group-anagrams](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0056-merge-intervals) |
+| [0078-subsets](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -126,6 +127,7 @@ Contains my solutions to LeetCode problems. Link to my LeetCode profile: https:/
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0078-subsets) |
 | [0190-reverse-bits](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0190-reverse-bits) |
 | [0287-find-the-duplicate-number](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0287-find-the-duplicate-number) |
 | [0401-binary-watch](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0401-binary-watch) |
@@ -148,6 +150,7 @@ Contains my solutions to LeetCode problems. Link to my LeetCode profile: https:/
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0078-subsets) |
 | [0401-binary-watch](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0401-binary-watch) |
 | [1980-find-unique-binary-string](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/1980-find-unique-binary-string) |
 ## Greedy
