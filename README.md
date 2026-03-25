@@ -10,6 +10,7 @@ Contains my solutions to LeetCode problems. Link to my LeetCode profile: https:/
 | [0141-linked-list-cycle](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0206-reverse-linked-list) |
+| [0622-design-circular-queue](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0622-design-circular-queue) |
 ## Math
 |  |
 | ------- |
@@ -45,6 +46,7 @@ Contains my solutions to LeetCode problems. Link to my LeetCode profile: https:/
 | [0399-evaluate-division](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0399-evaluate-division) |
 | [0529-minesweeper](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0529-minesweeper) |
 | [0560-subarray-sum-equals-k](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0560-subarray-sum-equals-k) |
+| [0622-design-circular-queue](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0622-design-circular-queue) |
 | [0986-interval-list-intersections](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0986-interval-list-intersections) |
 | [1260-shift-2d-grid](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/1260-shift-2d-grid) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
@@ -246,6 +248,7 @@ Contains my solutions to LeetCode problems. Link to my LeetCode profile: https:/
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0146-lru-cache) |
+| [0622-design-circular-queue](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0622-design-circular-queue) |
 | [1476-subrectangle-queries](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/1476-subrectangle-queries) |
 ## Doubly-Linked List
 |  |
@@ -296,4 +299,8 @@ Contains my solutions to LeetCode problems. Link to my LeetCode profile: https:/
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0399-evaluate-division) |
+## Queue
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
