@@ -15,6 +15,7 @@ Contains my solutions to LeetCode problems. Link to my LeetCode profile: https:/
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0007-reverse-integer) |
 | [0067-add-binary](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0067-add-binary) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
