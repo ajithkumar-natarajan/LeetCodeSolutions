@@ -42,6 +42,7 @@ Contains my solutions to LeetCode problems. Link to my LeetCode profile: https:/
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0169-majority-element) |
+| [0198-house-robber](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0287-find-the-duplicate-number](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0287-find-the-duplicate-number) |
@@ -263,6 +264,7 @@ Contains my solutions to LeetCode problems. Link to my LeetCode profile: https:/
 | [0097-interleaving-string](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0097-interleaving-string) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0198-house-robber](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0198-house-robber) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
