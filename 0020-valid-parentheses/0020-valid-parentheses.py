@@ -5,12 +5,11 @@ class Solution:
 
         for c in s:
             if c in m:
-                if not stack or stack.pop() != m[c]:
+                if not stack or not m[c] == stack.pop():
                     return False
             else:
                 stack.append(c)
-        
-        if len(stack) > 0:
-            return False
 
-        return True
+        if not stack:
+            return True
+        return False
