@@ -5,18 +5,13 @@
 #         self.left = left
 #         self.right = right
 class Solution:
+    def isMatch(self, node1, node2):
+        if not node1 or not node2:
+            return False
+        return node1.val == node2.val
     def isSameTree(self, p: Optional[TreeNode], q: Optional[TreeNode]) -> bool:
-        def preorder(node, visited):
-            if not node:
-                visited.append(None)
-                return visited
-            
-            visited.append(node.val)
-            preorder(node.left, visited)
-            preorder(node.right, visited)
-
-            return visited
-
-        if preorder(p, []) == preorder(q, []):
+        if not p and not q:
             return True
-        return False
+        if not self.isMatch(p, q):
+            return False
+        return self.isSameTree(p.left, q.left) and self.isSameTree(p.right, q.right)
