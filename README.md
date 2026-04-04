@@ -193,6 +193,7 @@ Contains my solutions to LeetCode problems. Link to my LeetCode profile: https:/
 | [0144-binary-tree-preorder-traversal](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0572-subtree-of-another-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/1325-delete-leaves-with-a-given-value) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
@@ -208,6 +209,7 @@ Contains my solutions to LeetCode problems. Link to my LeetCode profile: https:/
 | [0144-binary-tree-preorder-traversal](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0572-subtree-of-another-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/1325-delete-leaves-with-a-given-value) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
@@ -228,6 +230,7 @@ Contains my solutions to LeetCode problems. Link to my LeetCode profile: https:/
 ## Hash Function
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0572-subtree-of-another-tree) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Depth-First Search
 |  |
@@ -241,6 +244,7 @@ Contains my solutions to LeetCode problems. Link to my LeetCode profile: https:/
 | [0399-evaluate-division](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0399-evaluate-division) |
 | [0529-minesweeper](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0529-minesweeper) |
 | [0543-diameter-of-binary-tree](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0572-subtree-of-another-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/1325-delete-leaves-with-a-given-value) |
 ## Stack
@@ -327,4 +331,8 @@ Contains my solutions to LeetCode problems. Link to my LeetCode profile: https:/
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0622-design-circular-queue) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
