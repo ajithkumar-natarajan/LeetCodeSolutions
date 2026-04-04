@@ -151,6 +151,7 @@ Contains my solutions to LeetCode problems. Link to my LeetCode profile: https:/
 | [0191-number-of-1-bits](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0338-counting-bits) |
 | [0401-binary-watch](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -289,6 +290,7 @@ Contains my solutions to LeetCode problems. Link to my LeetCode profile: https:/
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0198-house-robber) |
+| [0338-counting-bits](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0338-counting-bits) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
