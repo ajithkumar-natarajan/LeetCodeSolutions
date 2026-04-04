@@ -18,6 +18,7 @@ Contains my solutions to LeetCode problems. Link to my LeetCode profile: https:/
 | [0002-add-two-numbers](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0007-reverse-integer) |
 | [0067-add-binary](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0268-missing-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -283,6 +284,7 @@ Contains my solutions to LeetCode problems. Link to my LeetCode profile: https:/
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0070-climbing-stairs) |
 | [0097-interleaving-string](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0097-interleaving-string) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -337,4 +339,8 @@ Contains my solutions to LeetCode problems. Link to my LeetCode profile: https:/
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0572-subtree-of-another-tree) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
