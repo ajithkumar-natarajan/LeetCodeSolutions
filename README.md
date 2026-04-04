@@ -7,6 +7,7 @@ Contains my solutions to LeetCode problems. Link to my LeetCode profile: https:/
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0206-reverse-linked-list) |
@@ -24,6 +25,7 @@ Contains my solutions to LeetCode problems. Link to my LeetCode profile: https:/
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0206-reverse-linked-list) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Array
