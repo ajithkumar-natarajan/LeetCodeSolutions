@@ -119,6 +119,7 @@ Contains my solutions to LeetCode problems. Link to my LeetCode profile: https:/
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0067-add-binary) |
@@ -139,6 +140,7 @@ Contains my solutions to LeetCode problems. Link to my LeetCode profile: https:/
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0088-merge-sorted-array) |
@@ -296,6 +298,7 @@ Contains my solutions to LeetCode problems. Link to my LeetCode profile: https:/
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0070-climbing-stairs) |
 | [0097-interleaving-string](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0097-interleaving-string) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
