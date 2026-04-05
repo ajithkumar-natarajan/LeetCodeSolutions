@@ -123,6 +123,7 @@ Contains my solutions to LeetCode problems. Link to my LeetCode profile: https:/
 | [0049-group-anagrams](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0067-add-binary) |
 | [0097-interleaving-string](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0097-interleaving-string) |
+| [0125-valid-palindrome](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0242-valid-anagram) |
 | [0399-evaluate-division](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0399-evaluate-division) |
 | [0696-count-binary-substrings](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0696-count-binary-substrings) |
@@ -141,6 +142,7 @@ Contains my solutions to LeetCode problems. Link to my LeetCode profile: https:/
 | [0011-container-with-most-water](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0141-linked-list-cycle) |
 | [0287-find-the-duplicate-number](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0287-find-the-duplicate-number) |
 | [0696-count-binary-substrings](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0696-count-binary-substrings) |
