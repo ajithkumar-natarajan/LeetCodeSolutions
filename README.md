@@ -199,6 +199,7 @@ Contains my solutions to LeetCode problems. Link to my LeetCode profile: https:/
 | [0129-sum-root-to-leaf-numbers](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0572-subtree-of-another-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -215,6 +216,7 @@ Contains my solutions to LeetCode problems. Link to my LeetCode profile: https:/
 | [0129-sum-root-to-leaf-numbers](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0572-subtree-of-another-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -248,6 +250,7 @@ Contains my solutions to LeetCode problems. Link to my LeetCode profile: https:/
 | [0144-binary-tree-preorder-traversal](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0200-number-of-islands) |
+| [0226-invert-binary-tree](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0226-invert-binary-tree) |
 | [0399-evaluate-division](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0399-evaluate-division) |
 | [0529-minesweeper](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0529-minesweeper) |
 | [0543-diameter-of-binary-tree](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0543-diameter-of-binary-tree) |
@@ -314,6 +317,7 @@ Contains my solutions to LeetCode problems. Link to my LeetCode profile: https:/
 | [0102-binary-tree-level-order-traversal](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0200-number-of-islands](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0200-number-of-islands) |
+| [0226-invert-binary-tree](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0226-invert-binary-tree) |
 | [0399-evaluate-division](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0399-evaluate-division) |
 | [0529-minesweeper](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0529-minesweeper) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
