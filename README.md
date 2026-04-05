@@ -45,6 +45,7 @@ Contains my solutions to LeetCode problems. Link to my LeetCode profile: https:/
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0200-number-of-islands) |
@@ -74,6 +75,7 @@ Contains my solutions to LeetCode problems. Link to my LeetCode profile: https:/
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0133-clone-graph) |
+| [0139-word-break](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0169-majority-element) |
@@ -126,6 +128,7 @@ Contains my solutions to LeetCode problems. Link to my LeetCode profile: https:/
 | [0067-add-binary](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0067-add-binary) |
 | [0097-interleaving-string](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0242-valid-anagram) |
 | [0399-evaluate-division](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0399-evaluate-division) |
 | [0647-palindromic-substrings](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0647-palindromic-substrings) |
@@ -307,6 +310,7 @@ Contains my solutions to LeetCode problems. Link to my LeetCode profile: https:/
 | [0097-interleaving-string](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0097-interleaving-string) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0139-word-break](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0338-counting-bits) |
 | [0647-palindromic-substrings](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0647-palindromic-substrings) |
@@ -368,4 +372,9 @@ Contains my solutions to LeetCode problems. Link to my LeetCode profile: https:/
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0139-word-break) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
