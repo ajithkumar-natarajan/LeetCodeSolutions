@@ -128,6 +128,7 @@ Contains my solutions to LeetCode problems. Link to my LeetCode profile: https:/
 | [0125-valid-palindrome](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0242-valid-anagram) |
 | [0399-evaluate-division](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0399-evaluate-division) |
+| [0647-palindromic-substrings](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0647-palindromic-substrings) |
 | [0696-count-binary-substrings](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0696-count-binary-substrings) |
 | [0767-reorganize-string](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0767-reorganize-string) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -148,6 +149,7 @@ Contains my solutions to LeetCode problems. Link to my LeetCode profile: https:/
 | [0125-valid-palindrome](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0141-linked-list-cycle) |
 | [0287-find-the-duplicate-number](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0287-find-the-duplicate-number) |
+| [0647-palindromic-substrings](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0647-palindromic-substrings) |
 | [0696-count-binary-substrings](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0696-count-binary-substrings) |
 | [0986-interval-list-intersections](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0986-interval-list-intersections) |
 ## Bit Manipulation
@@ -307,6 +309,7 @@ Contains my solutions to LeetCode problems. Link to my LeetCode profile: https:/
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0338-counting-bits) |
+| [0647-palindromic-substrings](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0647-palindromic-substrings) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
