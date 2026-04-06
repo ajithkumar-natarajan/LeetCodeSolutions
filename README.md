@@ -51,6 +51,7 @@ Contains my solutions to LeetCode problems. Link to my LeetCode profile: https:/
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0139-word-break) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0200-number-of-islands) |
@@ -252,6 +253,7 @@ Contains my solutions to LeetCode problems. Link to my LeetCode profile: https:/
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0287-find-the-duplicate-number) |
 ## Rolling Hash
