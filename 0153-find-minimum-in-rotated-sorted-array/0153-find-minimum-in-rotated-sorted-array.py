@@ -10,7 +10,7 @@ class Solution:
             mid = (left + right) // 2
             lowest = min(lowest, nums[mid])
 
-            if nums[left] > nums[mid] or nums[left] <= nums[mid] <= nums[right]:
+            if nums[mid] <= nums[right]:
                 right = mid - 1
             else:
                 left = mid + 1
