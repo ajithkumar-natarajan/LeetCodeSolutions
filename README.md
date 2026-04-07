@@ -222,6 +222,7 @@ Contains my solutions to LeetCode problems. Link to my LeetCode profile: https:/
 | [0144-binary-tree-preorder-traversal](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0572-subtree-of-another-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -240,6 +241,7 @@ Contains my solutions to LeetCode problems. Link to my LeetCode profile: https:/
 | [0144-binary-tree-preorder-traversal](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0572-subtree-of-another-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -278,6 +280,7 @@ Contains my solutions to LeetCode problems. Link to my LeetCode profile: https:/
 | [0145-binary-tree-postorder-traversal](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0399-evaluate-division](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0529-minesweeper](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0529-minesweeper) |
@@ -394,4 +397,8 @@ Contains my solutions to LeetCode problems. Link to my LeetCode profile: https:/
 |  |
 | ------- |
 | [0139-word-break](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0139-word-break) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
