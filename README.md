@@ -59,6 +59,7 @@ Contains my solutions to LeetCode problems. Link to my LeetCode profile: https:/
 | [0217-contains-duplicate](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0287-find-the-duplicate-number) |
+| [0347-top-k-frequent-elements](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0399-evaluate-division](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0529-minesweeper](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0529-minesweeper) |
@@ -89,6 +90,7 @@ Contains my solutions to LeetCode problems. Link to my LeetCode profile: https:/
 | [0217-contains-duplicate](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0560-subarray-sum-equals-k) |
 | [0767-reorganize-string](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0767-reorganize-string) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -103,6 +105,7 @@ Contains my solutions to LeetCode problems. Link to my LeetCode profile: https:/
 | [0190-reverse-bits](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -115,6 +118,7 @@ Contains my solutions to LeetCode problems. Link to my LeetCode profile: https:/
 | [0217-contains-duplicate](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0767-reorganize-string](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0767-reorganize-string) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
@@ -123,6 +127,7 @@ Contains my solutions to LeetCode problems. Link to my LeetCode profile: https:/
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0767-reorganize-string](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0767-reorganize-string) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3713-longest-balanced-substring-i](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/3713-longest-balanced-substring-i) |
@@ -340,11 +345,13 @@ Contains my solutions to LeetCode problems. Link to my LeetCode profile: https:/
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0767-reorganize-string](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0767-reorganize-string) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0347-top-k-frequent-elements) |
 ## Sliding Window
 |  |
 | ------- |
@@ -405,4 +412,8 @@ Contains my solutions to LeetCode problems. Link to my LeetCode profile: https:/
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
