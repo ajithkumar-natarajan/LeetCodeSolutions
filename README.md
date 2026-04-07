@@ -19,6 +19,7 @@ Contains my solutions to LeetCode problems. Link to my LeetCode profile: https:/
 | ------- |
 | [0002-add-two-numbers](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0268-missing-number) |
@@ -42,6 +43,7 @@ Contains my solutions to LeetCode problems. Link to my LeetCode profile: https:/
 | [0033-search-in-rotated-sorted-array](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0046-permutations](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0078-subsets) |
@@ -311,6 +313,7 @@ Contains my solutions to LeetCode problems. Link to my LeetCode profile: https:/
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0048-rotate-image) |
 | [0200-number-of-islands](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0529-minesweeper](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0529-minesweeper) |
