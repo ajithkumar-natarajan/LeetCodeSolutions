@@ -47,6 +47,7 @@ Contains my solutions to LeetCode problems. Link to my LeetCode profile: https:/
 | [0049-group-anagrams](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -142,6 +143,7 @@ Contains my solutions to LeetCode problems. Link to my LeetCode profile: https:/
 | [0020-valid-parentheses](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0067-add-binary) |
+| [0079-word-search](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0079-word-search) |
 | [0097-interleaving-string](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0139-word-break) |
@@ -206,6 +208,7 @@ Contains my solutions to LeetCode problems. Link to my LeetCode profile: https:/
 | ------- |
 | [0046-permutations](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0079-word-search) |
 | [0401-binary-watch](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0401-binary-watch) |
 | [1980-find-unique-binary-string](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/1980-find-unique-binary-string) |
 ## Greedy
@@ -283,6 +286,7 @@ Contains my solutions to LeetCode problems. Link to my LeetCode profile: https:/
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0100-same-tree) |
@@ -319,6 +323,7 @@ Contains my solutions to LeetCode problems. Link to my LeetCode profile: https:/
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0048-rotate-image) |
+| [0079-word-search](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0529-minesweeper](https://github.com/ajithkumar-natarajan/LeetCodeSolutions/tree/master/0529-minesweeper) |
